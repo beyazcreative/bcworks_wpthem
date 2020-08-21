@@ -6,3 +6,19 @@ Author:       m.ali
 Author URI:   https://bcworks.com
 Version:      1.0.0
 */
+
+body {
+    background: rgb(255, 255, 255);
+    font: normal 11px tahoma;
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+.dv1 {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background: blue;
+}
